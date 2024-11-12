@@ -1,0 +1,3214 @@
+{
+    "eventCardList": [
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-medical-expense-spending-accounts-hsa-hra-health-fsa.html",
+            "title": "Medical expense spending accounts (HSA, HRA, Health FSA)",
+            "dateType": 1653007620000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-hsafsa-197998298-050922-477x358.png",
+            "eventDetailDescription": "Maximize your medical expense spending accounts. Join our webinar to learn about HSA, HRA, and Health FSA.",
+            "tagIds": [
+                "mma-services:employee-health-benefits",
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:national",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "84f519bc-241e-4fa2-a437-dac6dc05cf47",
+            "lastModifiedDate": 1709911024977
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-cyber-security-and-insurance-be-brilliant-at-the-basics.html",
+            "title": "Cyber security insurance - Be brilliant at the basics",
+            "dateType": 1651022880000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-cyber-security-123977097-051222-477x358.jpg",
+            "eventDetailDescription": "Cyber Security and Insurance - Be brilliant at the basics and protect your organization from cyber threats.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:cyber"
+            ],
+            "randomId": "c56a73bb-b87b-4ce6-89d3-9fd6ae4b6624",
+            "lastModifiedDate": 1709910966859
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-roadcheck-2022-is-almost-here-are-you-ready.html",
+            "title": "Roadcheck 2022 is almost here-Are you ready?",
+            "dateType": 1650419520000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-road-safety-262506528-051222-477x358.jpg",
+            "eventDetailDescription": "Get ready for Roadcheck 2022. Join our webinar to ensure you\u0027re prepared for this important event.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2022",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-industries:transportation-and-trucking"
+            ],
+            "randomId": "3bc73bb0-e3f2-46eb-919a-5718f801b3d0",
+            "lastModifiedDate": 1709910907118
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-understanding-esg-risks-and-how-it-can-impact-your-insurance-policies.html",
+            "title": "Understanding ESG risks and how it can impact your insurance policies",
+            "dateType": 1648556940000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-ESG-318170392-051222-477x358.jpg",
+            "eventDetailDescription": "Environmental, social, and governance (ESG) practices have become critical risk issues for many businesses.",
+            "tagIds": [
+                "mma-national-campaign-types:environmental-social-and-governance-esg",
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:national",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "c654f6c8-9713-4bf8-beba-de068a8627cb",
+            "lastModifiedDate": 1709910848867
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-retaining-talent-and-the-importance-of-return-to-work-in-todays-market.html",
+            "title": "Retaining talent the importance of return to work in today's market",
+            "dateType": 1656478800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-allyship-373511095-051222-477x358.jpg",
+            "eventDetailDescription": "Learn the importance of talent retention and return-to-work strategies in today\u0027s market.",
+            "tagIds": [
+                "mma-industries:staffing",
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:claims-management"
+            ],
+            "randomId": "769e5894-141f-49fa-bece-36d09d7a27a5",
+            "lastModifiedDate": 1709911174232
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-path-to-transparency-in-coverage-TiC-what-employers-need-to-know-to-remain-compliant-on-july-1-2022.html",
+            "title": "Path to Transparency in Coverage (TiC): What employers need to know to remain compliant on July 1, 2022",
+            "dateType": 1653541200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-business-ins-148429168-051222-477x358.jpg",
+            "eventDetailDescription": "Stay compliant with the Transparency in Coverage rule. Join our webinar to understand requirements for employers.",
+            "tagIds": [
+                "mma-subcontent-types:compliance",
+                "mma-content-types:events",
+                "mma-regions:national",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-year:2022",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "8b690817-05a2-4932-8dc6-4f8506f43161",
+            "lastModifiedDate": 1709911093836
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/active-shooter-and-workplace-violence.html",
+            "title": "Active shooter workplace violence",
+            "dateType": 1657635540000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-activeshooter-umw-061022-477x358.jpg",
+            "eventDetailDescription": "Address active shooter and workplace violence risks with our informative event.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2022",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:retail-wholesale",
+                "mma-industries:mma-industries"
+            ],
+            "randomId": "01bb3afc-0007-43c0-b5eb-9d4fcee37498",
+            "lastModifiedDate": 1709911234199
+        },
+        {
+            "eventTitle": "Seminar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/seminar-ottobock-bionic-exoskeletons.html",
+            "title": "Ottobock Bionic Exoskeletons",
+            "dateType": 1659633060000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-exoskeletons-063022-477x358.jpg",
+            "eventDetailDescription": "Discover the power of Ottobock bionic exoskeletons. Join our seminar for insights on advanced mobility solutions.",
+            "tagIds": [
+                "mma-subcontent-types:seminar",
+                "mma-year:2022",
+                "mma-locations:minneapolis-minnesota"
+            ],
+            "randomId": "0c300d07-95ec-45f6-9ab5-c5e20d45a433",
+            "lastModifiedDate": 1705679541955
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-diversity-equity-and-inclusion-journey.html",
+            "title": "The Diversity, Equity, and Inclusion Journey",
+            "dateType": 1661361060000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-allyship-373511095-051222-477x358.jpg",
+            "eventDetailDescription": "Diversity, Equity, and Inclusion is a journey for organizations, business, and for each individual.",
+            "tagIds": [
+                "mma-national-campaign-types:diversity-equity-and-inclusion",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-year:2022",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "91531d5e-3a86-4898-a343-cb475e65ebbc",
+            "lastModifiedDate": 1709911459541
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-investing-in-leadership-key-to-senior-living-stability.html",
+            "title": "Investing in leadership: Key to senior living stability",
+            "dateType": 1661274660000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-000000000_477x358.png",
+            "eventDetailDescription": "Investing in leadership for senior living stability. Join our webinar for insights on leadership strategies.",
+            "tagIds": [
+                "mma-industries:senior-living",
+                "mma-year:2022",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "311569fe-9f56-459b-9aca-5f970c3f1988",
+            "lastModifiedDate": 1709911400719
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-top-property-hazards.html",
+            "title": "Top property hazards",
+            "dateType": 1664385060000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/thumbnail-357313132-477x358.png",
+            "eventDetailDescription": "Identify top property hazards. Join our webinar to learn about property risks and mitigation strategies.",
+            "tagIds": [
+                "mma-subcontent-types:on-demand",
+                "mma-year:2022",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "4558f32c-91be-4bac-b5a2-20ac428c6945",
+            "lastModifiedDate": 1709911576878
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-legal-licensure-and-liability-risk-drivers-for-senior-care.html",
+            "title": "Legal, licensure and liability risk drivers for senior care",
+            "dateType": 1666285860000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/events-2-people-reviewing-tablet-145056318-04262022-477x358.png",
+            "eventDetailDescription": "Join our webinar on senior care risk drivers. Learn about legal, licensure, and liability risks in the industry.",
+            "tagIds": [
+                "mma-industries:senior-living",
+                "mma-year:2022",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "dbe3fcfa-bf68-40d9-b031-47582067e659",
+            "lastModifiedDate": 1709911757666
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-wellness-programs.html",
+            "title": "Wellness programs",
+            "dateType": 1660795200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-group-health-168640742-051222-477x358.jpg",
+            "eventDetailDescription": "A review of the rules affecting wellness programs, their design, and the use of incentives.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "67db442d-fd5d-4723-bca9-0c305c97f4bb",
+            "lastModifiedDate": 1709911326269
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-planning-for-a-successful-retirement.html",
+            "title": "Planning for a successful retirement",
+            "dateType": 1659634920000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-retire-133529751-051222-477x358.jpg",
+            "eventDetailDescription": "Plan for a successful retirement with our webinar. Get valuable insights and tips for financial security.",
+            "tagIds": [
+                "mma-industries:senior-living",
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "0fc7b15b-b2ed-430f-937d-386a0c9d1aa0",
+            "lastModifiedDate": 1705692889139
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-domestic-partner-and-non-tax-dependent-coverage.html",
+            "title": "Domestic partner and non-tax dependent coverage",
+            "dateType": 1634788800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-1210536681-08022022-477x358.jpg",
+            "eventDetailDescription": "Understand domestic partner and non-tax dependent coverage. Join our webinar for important coverage information.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-year:2021"
+            ],
+            "randomId": "6dd96047-b2d9-4c14-84d2-f2ffe4708f0b",
+            "lastModifiedDate": 1709910773299
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-usable-affordable-automated-benefits-for-hourly-workforces.html",
+            "title": "Usable, affordable automated benefits for hourly workforces",
+            "dateType": 1631073600000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-325997922-08022022-477x358.jpg",
+            "eventDetailDescription": "Discover usable and affordable automated benefits for hourly workforces. Join our informative webinar.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-services:employee-health-benefits",
+                "mma-year:2021",
+                "mma-subcontent-types:webinar",
+                "mma-regions:midwest"
+            ],
+            "randomId": "bb2f74cb-a202-42ca-ab85-0909a09b0504",
+            "lastModifiedDate": 1709910705505
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-understanding-and-addressing-social-determinants-of-health-as-an-employer.html",
+            "title": "Understanding and addressing social determinants of health as an employer",
+            "dateType": 1666184460000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-1210536681-08022022-477x358.jpg",
+            "eventDetailDescription": "Understand and address social determinants of health as an employer with valuable insights.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "0c561974-f5d7-4fd8-bc2a-01ace58f8981",
+            "lastModifiedDate": 1709911641681
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-getting-in-the-weeds-how-to-handle-workplace-investigations.html",
+            "title": "Getting in the weeds: How to handle workplace investigations",
+            "dateType": 1667408520000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-108350360-072922-477x358.jpg",
+            "eventDetailDescription": "After HR rolls out a policy, we are often tasked with investigating whether an employee violated the policy.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-year:2022",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "70fed217-9efa-4aee-8011-5bc107995cad",
+            "lastModifiedDate": 1709911835254
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-employment-law-landscape-2023-what-all-employers-need-to-know.html",
+            "title": "Employment law landscape 2023-what all employers need to know",
+            "dateType": 1674768840000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-91071216-072822-477x358.jpg",
+            "eventDetailDescription": "Stay informed about the Employment Law Landscape in 2023. Join our webinar for essential employer knowledge.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "366a3a23-4b80-4e25-8a46-8f1ffac5dbe0",
+            "lastModifiedDate": 1709912239998
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/the-business-case-for-diversity-equity-inclusion.html",
+            "title": "The business case for diversity equity inclusion",
+            "dateType": 1674656700000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-308752962-072722-477x358.jpg",
+            "eventDetailDescription": "Learn the value of diversity, equity, and inclusion. Join our event for insights on fostering a diverse workplace.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "c54a7d53-0335-4923-bd34-ae0c5b69d6ad",
+            "lastModifiedDate": 1709912086023
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-taking-advantage-of-the-vb-re-evolution.html",
+            "title": "Voluntary benefit market outlook: Taking advantage of the VB (re)evolution",
+            "dateType": 1677181620000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-voluntary-benefits-UMW-11302022-477x358.jpg",
+            "eventDetailDescription": "Take advantage of the VB re-evolution. Join our webinar to explore virtual benefits administration.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-solutions:voluntary-benefits"
+            ],
+            "randomId": "5bbfd1d9-a540-4afc-94cf-39d28f73ee61",
+            "lastModifiedDate": 1709912515601
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-employer-provided-coverage-for-abortion-services-what-you-need-to-know-2023.html",
+            "title": "Employer-provided coverage for abortion services: What you need to know",
+            "dateType": 1676581740000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-feb-ccoe-199275609-12052022-477x358.jpg",
+            "eventDetailDescription": "Join us for an update on a variety of topics related to employer-provided coverage for abortion services.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-services:employee-health-benefits",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "5afc8eee-544d-48b5-90bc-aca7b3230af5",
+            "lastModifiedDate": 1717510740774
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-an-update-on-federal-transparency-reporting-requirements-2023.html",
+            "title": "An update on federal transparency reporting requirements",
+            "dateType": 1682016900000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-mar-ccoe-336088508-12052022-477x358.jpg",
+            "eventDetailDescription": "Stay updated on federal transparency reporting requirements in 2023. Join our webinar for the latest information.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "aa787870-3a4b-4a32-b3c3-76820cb50a50",
+            "lastModifiedDate": 1712260344579
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-hipaa-privacy-and-security-training-2023.html",
+            "title": "HIPAA privacy and security training",
+            "dateType": 1678979520000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-april-ccoe-523549051-12052022-477x358.png",
+            "eventDetailDescription": "Stay updated on HIPAA privacy and security training in 2023. Join our webinar for the latest information.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-services:employee-health-benefits",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "bbdc1523-78aa-4c0f-9744-ad8f318c21c8",
+            "lastModifiedDate": 1712260580542
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-qualifying-life-events-and-permitted-election-changes-2023.html",
+            "title": "Qualifying life events and permitted election changes",
+            "dateType": 1686843420000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-june-ccoe-389656955-12052022-477x358.png",
+            "eventDetailDescription": "Learn about qualifying life events and election changes in 2023. Join our webinar for important updates.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "d9077698-2cae-4b21-8731-bf90dfee0284",
+            "lastModifiedDate": 1712261405892
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-parity-rules-for-mental-health-and-substance-use-disorder-benefits-2023.html",
+            "title": "The parity rules for mental health and substance use disorder benefits",
+            "dateType": 1697741640000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-aug-ccoe-249613794-07282023-477x358.png",
+            "eventDetailDescription": "Understand the parity rules for mental health and substance use disorder benefits in our webinar for 2023.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "4d2c0d36-d0a7-43b3-81a2-8287bd92d875",
+            "lastModifiedDate": 1712261696286
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-all-you-need-to-know-about-annual-required-notices-2023.html",
+            "title": "All you need to know about annual required notices",
+            "dateType": 1695311700000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-sept-ccoe-450926321-07282023-477x358.jpg",
+            "eventDetailDescription": "Join us for a review of federal health and welfare plan notice and disclosure requirements, timing, and delivery.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "95922a19-7494-4325-8409-c5e4d9511d95",
+            "lastModifiedDate": 1712158614919
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-understanding-cobra-2023.html",
+            "title": "Understanding COBRA",
+            "dateType": 1692288060000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-oct-ccoe-423603034-12052022-477x358.jpg",
+            "eventDetailDescription": "Join us for a review of the federal COBRA continuation coverage rights applicable to group health plans.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "37135e46-5718-4f35-ba7a-e7777a2d64cf",
+            "lastModifiedDate": 1712261782613
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-aca-reporting-requirements-and-you-2023.html",
+            "title": "ACA reporting requirements and you",
+            "dateType": 1700154360000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-nov-ccoe-459113958-12052022-477x358.jpg",
+            "eventDetailDescription": "Stay compliant with ACA reporting requirements in 2023. Join our webinar for important reporting updates.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "231efac7-4bc8-4cc5-a334-88f63238433e",
+            "lastModifiedDate": 1712260200491
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-2023-year-end-compliance-review-and-forecast-2023.html",
+            "title": "2023 Year-end compliance review and forecast",
+            "dateType": 1703178900000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-dec-ccoe-509944266-12052022-477x358.jpg",
+            "eventDetailDescription": "Review year-end compliance and forecast for 2023 in our informative webinar. Stay ahead of regulatory changes.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "dcb8af1f-b986-4306-9e5e-ebd5cf755d23",
+            "lastModifiedDate": 1712260457294
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-quarterly-market-update-q4-2022.html",
+            "title": "Quarterly market update - Q4 2022",
+            "dateType": 1673370720000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-business-ins-148429168-051222-477x358.jpg",
+            "eventDetailDescription": "Get a quarterly market update for Q4 2022. Join our webinar for insights on market trends and developments.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "aa6e7730-df04-443b-bda6-8840fb6619a4",
+            "lastModifiedDate": 1709911920623
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-long-term-care-round-table-discussion.html",
+            "title": "Long-term care round table discussion",
+            "dateType": 1674745260000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-205176591-12062022-477x358.jpg",
+            "eventDetailDescription": "Join our round table discussion on long-term care. Gain insights and perspectives on this important topic.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-solutions:voluntary-benefits"
+            ],
+            "randomId": "5a500428-b6dd-455f-a387-8edf055fb5df",
+            "lastModifiedDate": 1717510605585
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-health-and-welfare-compliance-101-2023.html",
+            "title": "Health and welfare compliance 101",
+            "dateType": 1674145200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-jan-ccoe-302728896-12052022-477x358.jpg",
+            "eventDetailDescription": "Get a comprehensive overview of health and welfare compliance in 2023. Join our webinar for compliance knowledge.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-subcontent-types:on-demand",
+                "mma-services:employee-health-benefits",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "ebf09f2f-8871-438a-b48c-495e197cdf83",
+            "lastModifiedDate": 1717510664626
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-retirement-spending-revolutionize-your-thinking.html",
+            "title": "Retirement spending - Revolutionize your thinking",
+            "dateType": 1675784040000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-216888218-12272022-477x358.jpg",
+            "eventDetailDescription": "Revolutionize Retirement Spending. Optimize financial planning for a secure and fulfilling retirement.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-regions:new-england",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "f87a6f35-c8d6-43d2-b545-4a17b244f155",
+            "lastModifiedDate": 1709912380617
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-secure-2-0-required-actions-and-new-opportunities.html",
+            "title": "SECURE 2.0: Required actions new opportunities",
+            "dateType": 1675348860000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-437544408-08032022-477x358.jpg",
+            "eventDetailDescription": "Secure 2.0: Actions and Opportunities. Stay updated on cybersecurity trends and enhance your security",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:compliance",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "73947c49-b016-452d-a0cc-fa10e61c9548",
+            "lastModifiedDate": 1709912301451
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-navigating-health-care-costs-in-an-uncertain-2023.html",
+            "title": "Navigating health care costs in an uncertain 2023",
+            "dateType": 1681240860000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-221300453-10052022x477x358.jpg",
+            "eventDetailDescription": "Navigating Health Care Costs in 2023. Expert guidance on optimizing benefits programs.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-national-campaign-types:trends",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "a0a29e6d-f43f-41b2-9d97-1cb7afb4aaea",
+            "lastModifiedDate": 1712261004091
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-year-end-2022-business-insurance-state-of-the-market-report.html",
+            "title": "Year-end 2022 Business Insurance State of the Market Report",
+            "dateType": 1678373340000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-542651871-02202024-477x358.jpg",
+            "eventDetailDescription": "Get a year-end 2022 state-of-the-market report for business insurance. Join our webinar for valuable insights.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "f2ea419e-14df-40b8-a0dc-0b1d35e9e1dc",
+            "lastModifiedDate": 1717510809541
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-power-of-inclusive-benefits.html",
+            "title": "The power of inclusive benefits",
+            "dateType": 1679515920000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-may-ccoe-308752962-12052022-477x358.png",
+            "eventDetailDescription": "Harness the power of inclusive benefits. Join our webinar to create a more diverse and equitable workplace.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "35a1fe0e-9536-4e13-9034-47b607e953eb",
+            "lastModifiedDate": 1709912741236
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-end-in-sight-federal-government-ending-covid-19-relief-periods-is-affecting-employer-group-health-plans.html",
+            "title": "The end in sight: Federal government ending COVID-19 relief periods is affecting employer group health plans",
+            "dateType": 1679577540000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-group-health-168640742-051222-477x358.jpg",
+            "eventDetailDescription": "Understand the impact of the end of COVID-19 relief periods on employer group health plans.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "f4c5d0e3-eceb-4809-9c6b-2d3c16a236f1",
+            "lastModifiedDate": 1712261510303
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-women-and-retirement.html",
+            "title": "Women and retirement",
+            "dateType": 1679421600000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-355741505-02082023-477x358.jpg",
+            "eventDetailDescription": "As women continue to learn and earn we hold more power than ever in our own financial lives and in our families.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "6ed3c6f2-00b7-4205-84eb-0a98bb1df8e8",
+            "lastModifiedDate": 1717509550585
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-q1-financial-market-update.html",
+            "title": "Q1 Financial market update",
+            "dateType": 1681225800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-474794634-02172023-477x358.jpg",
+            "eventDetailDescription": "Get a Q1 financial market update. Join our webinar for insights on market trends and economic developments.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "ee7590c3-3d86-46a5-80be-a9b8154ce586",
+            "lastModifiedDate": 1712261138673
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-q2-financial-market-update.html",
+            "title": "Q2 Financial market update",
+            "dateType": 1689088200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-471291377-02172023-477x358.jpg",
+            "eventDetailDescription": "Stay informed with a Q2 financial market update. Join our webinar for the latest market insights.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "398f534d-417d-45a5-a168-1b4bddbe04c4",
+            "lastModifiedDate": 1712261222640
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-q3-financial-market-update.html",
+            "title": "Q3 Financial market update",
+            "dateType": 1696950600000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-428679854-02172023-477x358.jpg",
+            "eventDetailDescription": "Stay updated with a Q3 financial market update. Join our webinar for valuable market analysis and trends.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "99ff3de9-e1be-48bc-9ce3-2bfd2fede6e6",
+            "lastModifiedDate": 1712261318035
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-social-security-straight-from-the-experts-2.html",
+            "title": "Social Security straight from the experts",
+            "dateType": 1684243680000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-308176037-09282022-477x358.jpg",
+            "eventDetailDescription": "Get expert insights on Social Security. Learn about benefits, qualification, application, and online tools.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "0eacb53e-57e3-4ec3-a3ff-926788c7777f",
+            "lastModifiedDate": 1715352162517
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-3-decisions-to-take-advantage-of-your-employer-retirement-plan-benefit-4.html",
+            "title": "3 decisions to take advantage of your employer retirement plan benefit",
+            "dateType": 1682430120000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-finance-399368569-051222-477x358.jpg",
+            "eventDetailDescription": "Part 4 of: 3 decisions to take advantage of your employer retirement plan benefit",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "3c2d33c3-513e-4193-8eda-d89cbfa088f6",
+            "lastModifiedDate": 1712689683298
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-health-savings-accounts-101-how-to-optimize-this-savings-strategy-062023.html",
+            "title": "Health savings accounts 101: How to optimize this savings strategy",
+            "dateType": 1687292280000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-322543510-02282023-477x358.jpg",
+            "eventDetailDescription": "Optimize your savings with Health Savings Accounts 101. Join our webinar for insights on this savings strategy.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "1b8ab47f-0389-405e-a3d0-4e322c2118b1",
+            "lastModifiedDate": 1715351610913
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-prescribing-safety-workplace-violence-in-senior-care.html",
+            "title": "Prescribing safety: Workplace violence in senior care",
+            "dateType": 1682430660000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-senior-living-03062023-477x358.jpg",
+            "eventDetailDescription": "Ensure workplace safety in senior care. Join our webinar on prescribing safety and preventing workplace violence.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "c86152b1-df4f-4fbd-9479-27b6d9a5310a",
+            "lastModifiedDate": 1705692921232
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-managing-the-risk-of-resident-elopement.html",
+            "title": "Managing the risk of resident elopement",
+            "dateType": 1684878060000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-217282321-10052022-477x358.jpg",
+            "eventDetailDescription": "The headline reads - \"A Resident Dies from Hypothermia After Wandering From a Nursing Home.\"",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-industries:senior-living",
+                "mma-year:2023",
+                "mma-services:business-insurance",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "a0eb3f07-0b72-4003-a5c2-d653cee97d07",
+            "lastModifiedDate": 1709913532829
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-compliance-leave-update.html",
+            "title": "Compliance leave update",
+            "dateType": 1680718980000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-127133244-03142023-477x358.jpg",
+            "eventDetailDescription": "Stay updated on compliance leave. Join our webinar for important updates on leave regulations and requirements.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england"
+            ],
+            "randomId": "f95c2b98-bf82-43af-93d1-08cb28f2eefd",
+            "lastModifiedDate": 1715351460627
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-watches-and-wheels.html",
+            "title": "Watches and wheels",
+            "dateType": 1619074800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/pcs-thumbnail-wandw-webinar-03242023-477x358.png",
+            "eventDetailDescription": "Discover the latest trends in collectible watches and cars. Join our webinar hosted by Marsh McLennan Agency.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-regions:pcs-national",
+                "mma-year:2021",
+                "mma-solutions:collections",
+                "mma-solutions:auto"
+            ],
+            "randomId": "5c7cd322-6ddc-4dc4-8bda-8eb918d623aa",
+            "lastModifiedDate": 1705695096137
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-2022-flood-insurance.html",
+            "title": "2022 flood insurance outlook",
+            "dateType": 1655967600000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/pcs-thumbnail-flood-webinar-03242023-477x358.png",
+            "eventDetailDescription": "If you\u0027re curious about how the rollout of the National Flood Insurance Program\u0027s (NFIP) Risk Rating 2.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-solutions:flood",
+                "mma-solutions:individual",
+                "mma-regions:pcs-national",
+                "mma-national-campaign-types:catastrophic-risk"
+            ],
+            "randomId": "729a9e63-ceec-4b92-bc66-c6874e19ffe2",
+            "lastModifiedDate": 1708029142590
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-state-of-the-market-2022.html",
+            "title": "State of the market 2022",
+            "dateType": 1664089200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/pcs-thumbnail-sotm-webinar-03242023-477x358.png",
+            "eventDetailDescription": "Stay informed with the state of the market in 2022. Join our webinar for valuable market updates and insights.",
+            "tagIds": [
+                "mma-solutions:wildfire",
+                "mma-solutions:homeowners",
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-solutions:flood",
+                "mma-solutions:individual",
+                "mma-national-campaign-types:catastrophic-risk"
+            ],
+            "randomId": "11e87489-4697-476b-a64b-83fca1923843",
+            "lastModifiedDate": 1705694020688
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-cyber-safety-tips-for-the-holiday-season.html",
+            "title": "Cyber safety tips for the holiday season",
+            "dateType": 1605600000000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/pcs-thumbnail-cyber-webinar-682462080-03242023-477x358.png",
+            "eventDetailDescription": "If the experts are right, you\u0027ve likely already started your online holiday shopping.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:personal-cyber",
+                "mma-solutions:identity-theft",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:pcs-national",
+                "mma-services:private-client-services",
+                "mma-year:2020"
+            ],
+            "randomId": "3bed1fe3-1153-4989-9369-4412542eacc3",
+            "lastModifiedDate": 1708029213496
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-what-can-employers-do-to-address-mental-health-in-the-workplace.html",
+            "title": "What can employers do to address mental health in the workplace?",
+            "dateType": 1684849080000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-485869753-03232023-477x358.png",
+            "eventDetailDescription": "Discover what employers can do to address mental health in the workplace. Join our webinar for valuable insights.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-solutions:well-being",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-national-campaign-types:trends",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "23e7af2f-10c4-4942-88b0-4382e7bad8b1",
+            "lastModifiedDate": 1715352679579
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-how-safe-is-your-digital-life.html",
+            "title": "How safe is your digital life?",
+            "dateType": 1635836400000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/pcs-insights-thumbnail-digital-life-webinar-1227355407-04272023-356x267png.png",
+            "eventDetailDescription": "In today\u0027s connected world, the line between our online and offline lives is almost indistinguishable.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:personal-cyber",
+                "mma-solutions:identity-theft",
+                "mma-subcontent-types:on-demand",
+                "mma-year:2021",
+                "mma-services:private-client-services",
+                "mma-solutions:individual",
+                "mma-regions:pcs-national",
+                "mma-national-campaign-types:cyber"
+            ],
+            "randomId": "c1979ae1-bd7b-4d5d-af28-1b0a6c32895d",
+            "lastModifiedDate": 1708029348440
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-hurricane-preparedness-protecting-passion-investments.html",
+            "title": "Hurricane preparedness: Protecting passion investments",
+            "dateType": 1622703600000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/pcs-thumbnail-hurricane-prep-passion-investments-webinar-615275670-04272023-356x267.png",
+            "eventDetailDescription": "Protect your passion investments with our webinar on hurricane preparedness. Learn how to stay prepared.",
+            "tagIds": [
+                "mma-solutions:homeowners",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:valuable-articles",
+                "mma-subcontent-types:on-demand",
+                "mma-year:2021",
+                "mma-services:private-client-services",
+                "mma-regions:pcs-national",
+                "mma-solutions:flood",
+                "mma-solutions:individual",
+                "mma-national-campaign-types:catastrophic-risk",
+                "mma-solutions:collections"
+            ],
+            "randomId": "c05670cd-3fe5-494d-8a1a-c40409d0a7dc",
+            "lastModifiedDate": 1705683307326
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-ntfs-and-beyond.html",
+            "title": "NFTs and beyond: Digital assets and how to protect them",
+            "dateType": 1671523200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/pcs-insights-thumbnail-nft-webinar-1367699775-03292023-477x358.png",
+            "eventDetailDescription": "Even with the evolving crypto market, NFTs and the technology behind them are here to stay.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-year:2022",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:personal-cyber",
+                "mma-solutions:valuable-articles",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-solutions:specialty",
+                "mma-regions:pcs-national",
+                "mma-national-campaign-types:cyber",
+                "mma-solutions:collections"
+            ],
+            "randomId": "92619036-a7e8-4464-a4bd-4e2ccfd21930",
+            "lastModifiedDate": 1705692825090
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-wildfire-landscape.html",
+            "title": "The wildfire landscape: A seasonal outlook, preparedness tips, and the insurance impact on homeowners",
+            "dateType": 1598252400000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/pcs-insights-thumbnail-wildfire-webinar-96470877-03292023-477x358.png",
+            "eventDetailDescription": "In the past 10 years, wildfires burn more than five million acres on average in the US every year.",
+            "tagIds": [
+                "mma-solutions:wildfire",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:pcs-national",
+                "mma-solutions:individual",
+                "mma-services:private-client-services",
+                "mma-national-campaign-types:catastrophic-risk"
+            ],
+            "randomId": "d404c8db-20ae-41d2-b207-a83c5a593bd9",
+            "lastModifiedDate": 1705694660758
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-constructing-better-mental-health.html",
+            "title": "Constructing better mental health",
+            "dateType": 1683643380000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/insights-thumbnail-safety-322912716-356x267.png",
+            "eventDetailDescription": "Construct better mental health strategies. Join our webinar on promoting mental well-being in the workplace.",
+            "tagIds": [
+                "mma-regions:mid-atlantic",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "dd5612de-4abc-4d90-a143-b1ae3ade3ca5",
+            "lastModifiedDate": 1709913357322
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-future-of-yachting.html",
+            "title": "The future of yachting: Emerging tech, security, and insurance market updates",
+            "dateType": 1681335900000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/pcs-thumbnail-yacht-webinar-04272023-356x267.png",
+            "eventDetailDescription": "Explore the future of yachting. Join our webinar for trends and innovations in the yachting industry.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:yacht",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-regions:pcs-national",
+                "mma-solutions:specialty"
+            ],
+            "randomId": "8f5dcb56-0d08-4f83-9a8f-08b6098e8a26",
+            "lastModifiedDate": 1705694487650
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-discovering-d-and-o-life-sciences-biggest-risk.html",
+            "title": "Discovering D\u0026O: Life Sciences\u0027 biggest risk",
+            "dateType": 1684330800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-245463907-04182023-477x358.jpg",
+            "eventDetailDescription": "Discovering D\u0026O: Life Sciences\u0027 Biggest Risk. Uncover unique challenges and mitigate them.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-services:business-insurance",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-industries:life-sciences",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "f72a2422-b939-4e93-a8ac-57bee2fdd0f3",
+            "lastModifiedDate": 1708029264978
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-family-legacy-summer-series.html",
+            "title": "Family legacy summer series",
+            "dateType": 1623394800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/pcs-insights-thumbnail-family-legacy-summer-series-webinar-1162303350-05012023-356x267.png",
+            "eventDetailDescription": "Preserve your family legacy. Join our summer series webinar for valuable insights on generational wealth.",
+            "tagIds": [
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:sponsored",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:pcs-national",
+                "mma-services:private-client-services",
+                "mma-solutions:family-office"
+            ],
+            "randomId": "34336ee3-6090-4b43-946d-cfe75a037602",
+            "lastModifiedDate": 1705682762596
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-mental-health-across-the-generations.html",
+            "title": "Mental health across the generations",
+            "dateType": 1689259380000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-05182023-477x358.jpg",
+            "eventDetailDescription": "Address mental health across generations. Join our webinar for insights on promoting well-being in all age groups.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "3231a18c-f9e4-49b6-9c40-0d173e167cab",
+            "lastModifiedDate": 1705692682894
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-regaining-financial-stability.html",
+            "title": "Regaining financial stability",
+            "dateType": 1692193920000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-05192023-477x358.jpg",
+            "eventDetailDescription": "Regain financial stability with our webinar. Learn strategies to overcome challenges and achieve your goals.",
+            "tagIds": [
+                "mma-regions:mid-atlantic",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "fe9ca639-065f-4ca4-b792-6dd86d698802",
+            "lastModifiedDate": 1715352057268
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-difference-between-pre-tax-and-roth-contributions.html",
+            "title": "To Roth or not to Roth: The difference between pre-tax Roth contributions",
+            "dateType": 1695147360000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.jpg",
+            "eventDetailDescription": "Learn about the differences between traditional, pre-tax 401(k) contributions and Roth contributions.",
+            "tagIds": [
+                "mma-regions:mid-atlantic",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "447b913a-32e6-4066-8767-28335e6364a5",
+            "lastModifiedDate": 1709914046327
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-medicare-costs-decisions-and-timing.html",
+            "title": "Medicare costs, decisions, and timing",
+            "dateType": 1698932940000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07262023-477x358.jpg",
+            "eventDetailDescription": "Medicare Costs, Decisions, Timing - Expert insights on managing costs and making informed coverage decisions.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "2807d3d4-e5d3-4364-b003-cd8ca68e45f0",
+            "lastModifiedDate": 1705683689477
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-are-you-ready-to-retire-2023.html",
+            "title": "Are you ready to retire?",
+            "dateType": 1701875520000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-471291377-02172023-477x358.jpg",
+            "eventDetailDescription": "Planning for retirement involves careful preparation during your working years.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:midwest"
+            ],
+            "randomId": "8b8592c8-d043-45d1-9a54-8b97c899b89d",
+            "lastModifiedDate": 1705681106714
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-uncover-unconscious-bias.html",
+            "title": "Uncover unconscious bias",
+            "dateType": 1692812760000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.png",
+            "eventDetailDescription": "Uncover unconscious bias in the workplace. Join our webinar for insights on fostering inclusivity.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-services:business-insurance",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "6dd88542-ff36-40e3-88c2-b8d755fffcf8",
+            "lastModifiedDate": 1715352275813
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-maximize-your-401k-strategy-in-2023.html",
+            "title": "Retirement plan trends and updates: Maximize your 401k Strategy in 2023",
+            "dateType": 1690379820000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07272023-477x358.png",
+            "eventDetailDescription": "Maximize your 401k strategy in 2023. Join our webinar for valuable insights on retirement savings.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-services:business-insurance",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "57851563-5436-499b-a3cc-7082807a5001",
+            "lastModifiedDate": 1715351700966
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-brainworks-2023.html",
+            "title": "Brainworks",
+            "dateType": 1695758520000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07302023-477x358.jpg",
+            "eventDetailDescription": "Discover Brainworks in 2023. Join our webinar for the latest insights on brain health and cognitive enhancement.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "fafb43fd-331c-469c-a64d-a09b74b0f59f",
+            "lastModifiedDate": 1712689451655
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-principles-for-a-successful-retirement.html",
+            "title": "Principles for a successful retirement",
+            "dateType": 1692195420000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-06212023-477x358.jpg",
+            "eventDetailDescription": "You will learn the important tenet of successful retirement savings and investing strategies.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "e055c0a9-2182-43a8-a0a7-223400dd81a6",
+            "lastModifiedDate": 1715351935244
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-understanding-our-relationship-with-money.html",
+            "title": "Understanding our relationship with money",
+            "dateType": 1695147540000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07292023-477x358.jpg",
+            "eventDetailDescription": "Gain insights into our relationship with money. Join our webinar for an understanding of financial behaviors.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "eacdb3e8-a790-4e15-b0f8-1265aa7a3261",
+            "lastModifiedDate": 1715352545117
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-insiders-guide-to-surviving-a-dol-audit.html",
+            "title": "The insider\u0027s guide to surviving a DOL audit",
+            "dateType": 1694535600000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-559866957-07182023-477x358.jpg",
+            "eventDetailDescription": "Survive a DOL audit with our insider\u0027s guide. Join our webinar for tips and strategies to navigate the process.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "b4b500cb-8591-4258-a871-4048bcb64571",
+            "lastModifiedDate": 1712261600690
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-compliance-leave-of-absence.html",
+            "title": "Compliance: Leave of absence",
+            "dateType": 1694620920000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-440299419-08172023-477x358.jpg",
+            "eventDetailDescription": "Ensure compliance with leave of absence regulations. Join our webinar for insights on managing employee absences.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england"
+            ],
+            "randomId": "dddbf156-dffb-405f-9556-1c7e10a7201b",
+            "lastModifiedDate": 1715351175331
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-how-employers-can-comply-with-the-prohibition-on-gag-clauses.html",
+            "title": "How employers can comply with the prohibition on gag clauses and annual attestation requirement",
+            "dateType": 1695909780000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-nov-ccoe-459113958-12052022-477x358.jpg",
+            "eventDetailDescription": "Learn how employers can comply with the prohibition on gag clauses. Join our webinar for important insights.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:compliance",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "f6ca0d4e-3b74-49bd-8503-505ddb43dc36",
+            "lastModifiedDate": 1712260757021
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-build-a-dynamic-employee-value-proposition.html",
+            "title": "Build a dynamic employee value proposition: Retain and attract top talent",
+            "dateType": 1697032380000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.png",
+            "eventDetailDescription": "Build a dynamic employee value proposition. Join our webinar for insights on attracting and retaining top talent.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "9553f59c-f420-4523-803d-4a251612d85a",
+            "lastModifiedDate": 1705681339150
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-charting-practices-to-optimize-resident-safety-2023.html",
+            "title": "Charting practices to optimize resident safety",
+            "dateType": 1697567640000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-217282321-10052022-477x358-v2.jpg",
+            "eventDetailDescription": "Stay ahead with charting practices for resident safety in 2023. Join our webinar for the latest insights.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "f36bd6eb-4580-4247-9a89-bcbe110994e2",
+            "lastModifiedDate": 1705681989611
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-cyber-security.html",
+            "title": "Cyber security",
+            "dateType": 1696344360000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-08292023-477x358.jpg",
+            "eventDetailDescription": "Protect your business from cyber threats. Join our webinar to learn about essential cybersecurity measures.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "cbf50624-eec4-4d8c-94a9-1e65df573fbd",
+            "lastModifiedDate": 1715351532750
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-caregiving.html",
+            "title": "Caregiving",
+            "dateType": 1700583120000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-08282023-477x358.jpg",
+            "eventDetailDescription": "Gain insights on caregiving. Join our webinar to learn about important aspects of providing care.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "58b41fca-ce95-426d-9db0-e59b2aefeee6",
+            "lastModifiedDate": 1712689574778
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-9-steps-setting-you-up-for-financial-success.html",
+            "title": "9 steps setting you up for financial success",
+            "dateType": 1701880260000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-08302023-477x358.jpg",
+            "eventDetailDescription": "Set yourself up for financial success with our webinar. Learn 9 essential steps to achieve your goals.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "36d619f8-254e-4fea-8804-fb2261c0f596",
+            "lastModifiedDate": 1712689797551
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-medicare-101.html",
+            "title": "Medicare 101",
+            "dateType": 1702399320000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-08312023-477x358.jpg",
+            "eventDetailDescription": "Medicare 101 is a high level overview helping guide those ready for Medicare through the Medicare maze.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "f3ace525-c457-4b9c-bbf8-95295ca1b34d",
+            "lastModifiedDate": 1715351804926
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-current-state-of-diversity-equity-and-inclusion.html",
+            "title": "The current state of diversity, equity, and inclusion",
+            "dateType": 1699468140000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.png",
+            "eventDetailDescription": "Explore the current state of diversity, equity, and inclusion. Join our webinar for insights and discussions.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "92dfb888-2a0d-4580-ad12-7defe6b5b47c",
+            "lastModifiedDate": 1705694346283
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-navigating-the-insurance-market-2023-recap-and-looking-ahead.html",
+            "title": "Navigating the insurance market: 2023 recap and looking ahead",
+            "dateType": 1699389360000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-09112023-477x358.jpg",
+            "eventDetailDescription": "Navigate the insurance market in 2023. Join our webinar for a recap and a look ahead at insurance trends.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "16221d73-ddf7-47cb-87e1-9cacb60d5ecc",
+            "lastModifiedDate": 1705692793101
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-private-client-insurance-benchmarking-study-results.html",
+            "title": "Private client insurance benchmarking study results",
+            "dateType": 1699909740000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/pcs-pc-benchmarking-study-thumbnail-1221711153-10172023-356x267.jpg",
+            "eventDetailDescription": "Discover the results of our Private Client Insurance Benchmarking Study. Join our webinar for valuable insights.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-solutions:homeowners",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-regions:pcs-national",
+                "mma-solutions:individual"
+            ],
+            "randomId": "d2cc6e4a-c227-47f1-be6d-99a3f24a0c26",
+            "lastModifiedDate": 1705693029850
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-evolving-business-insurance-trends-a-look-towards-2024.html",
+            "title": "Evolving business insurance trends: a look towards 2024",
+            "dateType": 1699988700000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.jpg",
+            "eventDetailDescription": "As 2023 winds down, join us as we look back at the year\u0027s most prominent trends and discuss what may be ahead.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-solutions:analytics-and-benchmarking",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:",
+                "mma-national-campaign-types:bi-trends"
+            ],
+            "randomId": "f3d4f8e5-05f1-486e-9b6c-deb6d7549ca2",
+            "lastModifiedDate": 1712260908055
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-professional-employer-organizations-the-right-fit-for-your-business.html",
+            "title": "Professional Employer Organizations: The right fit for your business?",
+            "dateType": 1698688800000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-10202023-477x358.png",
+            "eventDetailDescription": "Discover if Professional Employer Organizations are the right fit for your business in our informative webinar.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "c45ea550-f716-4a6e-b51c-b5d807359591",
+            "lastModifiedDate": 1705693065071
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-employment-law-landscape-2024-what-all-employers-need-to-know.html",
+            "title": "Employment law landscape 2024: What all employers need to know",
+            "dateType": 1706034540000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-10302023-477x358.jpg",
+            "eventDetailDescription": "Stay informed about the Employment Law Landscape in 2024. Join our webinar for essential employer knowledge.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "c15e5f0d-21dd-410d-86fd-13fea5146c18",
+            "lastModifiedDate": 1706194614580
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-hippa-privacy-and-security-training.html",
+            "title": "HIPAA Privacy and Security Training",
+            "dateType": 1708009560000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-april-ccoe-523549051-12052022-477x358.png",
+            "eventDetailDescription": "Get HIPAA privacy and security training. Join our webinar for insights on compliance and data protection.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "28f43d9a-b5ba-45f5-bc23-2f0a1d8d54c8",
+            "lastModifiedDate": 1717444762929
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-quarterly-compliance-updates-q2.html",
+            "title": "What employers need to know about wellness programs",
+            "dateType": 1715885760000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-feb-ccoe-199275609-12052022-477x358.jpg",
+            "eventDetailDescription": "Get Q2 compliance updates. Join our webinar for the latest regulatory changes and compliance insights.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "5c8a71d2-0b61-44a4-ab1d-18bb077e3c6e",
+            "lastModifiedDate": 1717609965744
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-quarterly-compliance-updates-q3.html",
+            "title": "Quarterly Compliance Updates Q3",
+            "dateType": 1723750080000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-mar-ccoe-336088508-12052022-477x358.jpg",
+            "eventDetailDescription": "Stay informed with quarterly compliance updates for Q3. Join our webinar for valuable regulatory information.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "ff654d6b-15c1-4064-8e0d-6d64b26d62aa",
+            "lastModifiedDate": 1723816053638
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-quarterly-compliance-updates-q4.html",
+            "title": "Quarterly Compliance Updates Q4",
+            "dateType": 1732222200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-nov-ccoe-459113958-12052022-477x358.jpg",
+            "eventDetailDescription": "Stay updated with quarterly compliance for Q4. Join our webinar for the latest regulatory insights and changes.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:compliance-support-and-oversight",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-national-campaign-types:compliance-center-of-excellence"
+            ],
+            "randomId": "5297c698-3afe-493a-9662-dde0904cbcb3",
+            "lastModifiedDate": 1709915048226
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-exploring-the-power-of-captives.html",
+            "title": "Exploring the power of captives",
+            "dateType": 1702502400000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11212023-477x358.jpg",
+            "eventDetailDescription": "Discover the power of captives. Join our webinar to explore the benefits and potential of captive insurance.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-industries:health-care",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "614ad200-d931-43c0-a349-410ae76a8817",
+            "lastModifiedDate": 1717509333754
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-winter-weather-preparedness-navigating-the-chill.html",
+            "title": "Winter weather preparedness: Navigating the chill",
+            "dateType": 1702478880000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11222023-477x358.png",
+            "eventDetailDescription": "Navigate winter weather with our webinar on preparedness. Learn how to stay safe and protect your assets.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "28f8175d-5308-40af-aec6-3a730db8f80e",
+            "lastModifiedDate": 1715352761498
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-family-money-talks.html",
+            "title": "Family money talks",
+            "dateType": 1707842400000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11232023-477x358.png",
+            "eventDetailDescription": "Have family money talks. Join our webinar for guidance on discussing financial matters with your loved ones.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "ba26988d-7a0d-4580-9964-8e373e88ea12",
+            "lastModifiedDate": 1717508729224
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-women-and-retirement-2024.html",
+            "title": "Women and retirement",
+            "dateType": 1709917560000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11242023-477x358.jpg",
+            "eventDetailDescription": "Explore women and retirement in 2024. Join our webinar for insights on financial planning and security.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "10be01a0-f133-47c1-9388-b943c8e8247f",
+            "lastModifiedDate": 1717508947388
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-retirement-spending-revolutionize-your-thinking-2024.html",
+            "title": "Retirement spending - revolutionize your thinking",
+            "dateType": 1710863820000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11282023-477x358.jpg",
+            "eventDetailDescription": "Discover personalized approaches to retirement spending planning in this insightful conversation.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "49b707f6-b5be-4eb8-beb1-d30fd2f0f135",
+            "lastModifiedDate": 1717507867681
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-social-security-straight-from-the-experts-2024.html",
+            "title": "Social security straight from the experts",
+            "dateType": 1713898440000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11292023-477x358.jpg",
+            "eventDetailDescription": "Learn about the benefits and services offered by SSA in this informative workshop.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "912ef4c5-5564-4ba5-bc57-46c93d893d60",
+            "lastModifiedDate": 1717508105749
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-millennials-and-gen-z-and-money.html",
+            "title": "Millennials and Gen Z and money",
+            "dateType": 1715713320000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11302023-477x358.jpg",
+            "eventDetailDescription": "Get practical tips for financial security and planning in this webinar for Millennials and Gen Z.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "cf82ef53-f41a-429c-8a37-060793c1a95e",
+            "lastModifiedDate": 1717609775156
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-student-loans.html",
+            "title": "Student loans",
+            "dateType": 1706127000000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12012023-477x358.jpg",
+            "eventDetailDescription": "Gain insights on student loans. Join our webinar for guidance on managing and repaying student loan debt.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "bcfa88ba-b697-4d33-b5b8-04d1c3e497b2",
+            "lastModifiedDate": 1717508498969
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-new-parents-new-accounts-saving-for-education.html",
+            "title": "New parents new accounts - saving for education",
+            "dateType": 1716301200000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12022023-477x358.jpg",
+            "eventDetailDescription": "Discover smart ways to save for future educational expenses with our Life Lessons: 529 webinar.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "c3785009-3168-447b-91f3-38d2cbbbe510",
+            "lastModifiedDate": 1717609880705
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-health-savings-accounts-101-how-to-optimize-this-savings-strategy-2024.html",
+            "title": "Health savings accounts 101: How to optimize this savings strategy",
+            "dateType": 1718116140000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12032023-477x358.jpg",
+            "eventDetailDescription": "Discover the benefits of a Health Savings Account (HSA).",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "39642d03-e397-46ca-a396-1af5640656a8",
+            "lastModifiedDate": 1718634096309
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-brainworks-2024.html",
+            "title": "Brainworks",
+            "dateType": 1723560120000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12042023-477x358.jpg",
+            "eventDetailDescription": "Join this webinar to boost brain health and function with personalized training.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming"
+            ],
+            "randomId": "82035078-c025-43cc-9f5f-9c41abe7e80a",
+            "lastModifiedDate": 1724181850476
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-5-ways-technology-will-change-how-you-age-mit-agelab.html",
+            "title": "5 ways technology will change how you age - MIT AgeLab",
+            "dateType": 1726584780000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12052023-477x358.jpg",
+            "eventDetailDescription": "Explore tech for aging well transforming retirement.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming"
+            ],
+            "randomId": "cbf7dbd6-0588-4608-bdd6-8242f2fe085d",
+            "lastModifiedDate": 1708439168930
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-life-hacks-and-savvy-saving-tips.html",
+            "title": "Life hacks savvy saving tips",
+            "dateType": 1729609260000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12062023-477x358.jpg",
+            "eventDetailDescription": "Join our financial wellness consultants as they share their best life hacks and savvy money saving tips.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming"
+            ],
+            "randomId": "d6c09ac3-8162-4ff9-aeda-d205f3008104",
+            "lastModifiedDate": 1705683401884
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-caregiving-2024.html",
+            "title": "Caregiving",
+            "dateType": 1731428280000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12072023-477x358.jpg",
+            "eventDetailDescription": "Prepare for caregiving in 2024. Join our webinar for insights on the evolving landscape of caregiving.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming"
+            ],
+            "randomId": "922da934-7e24-49cc-a5df-03354248ab9d",
+            "lastModifiedDate": 1705681462292
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-social-portfolio-mit-agelab.html",
+            "title": "The social portfolio - MIT AgeLab",
+            "dateType": 1732029900000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12092023-477x358.jpg",
+            "eventDetailDescription": "Explore the Social Portfolio with MIT AgeLab. Join our webinar for insights on aging, retirement, and well-being.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming"
+            ],
+            "randomId": "34ca8279-4d41-44a9-ad26-0e61d590302c",
+            "lastModifiedDate": 1705694629330
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-medicare-101-2024.html",
+            "title": "Medicare 101",
+            "dateType": 1733844960000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12132023-477x358.jpg",
+            "eventDetailDescription": "Gain insights to stay ahead with the latest updates on Medicare and navigate the healthcare landscape confidently.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming"
+            ],
+            "randomId": "6e879d06-2478-4276-8e36-74d6e63b0e3e",
+            "lastModifiedDate": 1705683657149
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-unlocking-safety-lockout-tagout.html",
+            "title": "Unlocking safety: Lockout tagout",
+            "dateType": 1708012080000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12102023-477x358.jpg",
+            "eventDetailDescription": "OSHA lockout/tagout practices and procedures are often overlooked for operations with trucking risks.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "9170a845-1f09-4204-a255-02b1ad1ddfef",
+            "lastModifiedDate": 1708031608980
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-building-a-magnetic-employee-value-proposition.html",
+            "title": "Building a magnetic employee value proposition",
+            "dateType": 1710960300000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-senior-living-03062023-477x358.jpg",
+            "eventDetailDescription": "Create a magnetic employee value proposition. Join our webinar to attract and retain top talent.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "06e4d5ce-bdae-4a56-82ed-51a9bb5dc6cb",
+            "lastModifiedDate": 1711031778160
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-a-risk-in-flight-drones-in-agribusiness-today.html",
+            "title": "A risk in flight: Drones in agribusiness today",
+            "dateType": 1708631940000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-droneag-12072023-477x358.jpg",
+            "eventDetailDescription": "Explore the risks and opportunities of drones in agribusiness. Join our webinar for insights on drone usage.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-industries:agribusiness",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "b0f1a9ac-5055-4530-bc50-eac5dba5b2ba",
+            "lastModifiedDate": 1708638257031
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-compliance-leave-of-absence-2024.html",
+            "title": "Compliance: Leave of absence",
+            "dateType": 1705519260000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-new-compliance-12082023-477x358.jpg",
+            "eventDetailDescription": "Stay compliant with leave of absence regulations in 2024. Join our webinar for important compliance updates.",
+            "tagIds": [
+                "mma-regions:northeast",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "1ddcd15f-7fbc-445d-9d59-702e686525ad",
+            "lastModifiedDate": 1717508646320
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-2023-family-office-benchmarking-study-results.html",
+            "title": "2023 Family Office benchmarking study results",
+            "dateType": 1702512060000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/pcs-thumbnail-fo-benchmarking-webinar-1402891302-10312023-477x358.jpg",
+            "eventDetailDescription": "Gain insights from our comprehensive study on family office insurance in the US.",
+            "tagIds": [
+                "mma-year:2023",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:sponsored",
+                "mma-subcontent-types:on-demand",
+                "mma-regions:pcs-national",
+                "mma-services:private-client-services",
+                "mma-solutions:family-office"
+            ],
+            "randomId": "acc52f5b-e157-4735-9d67-b40acf5d13a4",
+            "lastModifiedDate": 1708440362364
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-making-sense-of-this-financial-markets-key-acronyms.html",
+            "title": "Making sense of this financial market\u0027s key acronyms",
+            "dateType": 1704908880000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-322543510-02282023-477x358.jpg",
+            "eventDetailDescription": "Decode financial jargon in our webinar on understanding the market and \"Magnificent 7\" stocks.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "32006e6d-9fe7-4cdd-87d7-481937153a01",
+            "lastModifiedDate": 1709914846568
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-q1-financial-trends.html",
+            "title": "Q1 Financial Trends",
+            "dateType": 1712758560000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-216888218-12272022-477x358.jpg",
+            "eventDetailDescription": "Get insights on the 1st quarter economic and market environment from Marsh McLennan Agency\u0027s investment team.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "ba548b68-6b22-4cd5-92e6-dcc8d24afc16",
+            "lastModifiedDate": 1717507956859
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-q2-financial-trends.html",
+            "title": "Q2 Financial Trends",
+            "dateType": 1720725480000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-308176037-09282022-477x358.jpg",
+            "eventDetailDescription": "Get insights on the 2nd quarter economic and market environment from Marsh McLennan Agency\u0027s investment team.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "54a52c7a-ba20-4542-b61b-3af694e95059",
+            "lastModifiedDate": 1720705098699
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-q3-financial-trends.html",
+            "title": "Upcoming Recording: Q3 Financial Trends",
+            "dateType": 1728588840000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-374307584-12202023-477x358.jpg",
+            "eventDetailDescription": "Get insights on the 3rd quarter economic and market environment from Marsh McLennan Agency\u0027s investment team.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:upcoming",
+                "mma-regions:national"
+            ],
+            "randomId": "d8cc7dbe-a1a6-4de8-8826-900d2e4ead89",
+            "lastModifiedDate": 1713290927632
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-the-risk-management-center-overview.html",
+            "title": "The Risk Management Center Overview",
+            "dateType": 1708028280000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/insights/thumbnail/insights-thumbnail-355741505-072722-356x267.jpg",
+            "eventDetailDescription": "Explore risk management solutions with a web-based suite. Topics include EHS, automation, online training, and HR resources.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-regions:west",
+                "mma-subcontent-types:webinar",
+                "mma-industries:education",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "be65ee70-9495-4378-ab95-74de6dda34ba",
+            "lastModifiedDate": 1709307252127
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-how-should-employers-approach-weight-loss-drugs.html",
+            "title": "How should employers approach weight loss drugs?",
+            "dateType": 1712677260000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-412817928-10052022-477x358.jpg",
+            "eventDetailDescription": "Weight loss drugs are becoming popular. Here\u0027s what your business should consider before adding them to your formulary.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-national-campaign-types:trends",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "d5806707-edd1-41d9-9673-3c428dda66f5",
+            "lastModifiedDate": 1717508209149
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-positioning-your-organization-for-the-optimal-outcomes.html",
+            "title": "Positioning your organization for the optimal outcome: How to adapt in a transitioning commercial property market",
+            "dateType": 1713361440000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-322543510-02282023-477x358.jpg",
+            "eventDetailDescription": "Stay ahead of the curve in the property insurance market. Gain insights and strategies from industry specialists in our insightful webinar.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-solutions:property",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:bi-trends"
+            ],
+            "randomId": "eb9b1946-4ca1-4157-b1ba-5cf2f9d315d7",
+            "lastModifiedDate": 1717445060160
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-thoughts-on-the-federal-reserves-interest-rate-decision.html",
+            "title": "MMA and PIMCO: Thoughts on the Federal Reserve\u0027s interest rate decision",
+            "dateType": 1711029720000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07272023-477x358.png",
+            "eventDetailDescription": "Join us for a discussion on the Federal Reserve meeting and its impact on monetary policy.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "ac59dd27-facb-4f2d-a26c-142cef060d73",
+            "lastModifiedDate": 1717509247561
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-strategies-for-tackling-social-determinants-of-health.html",
+            "title": "Caring for communities: Strategies for tackling social determinants of health",
+            "dateType": 1717093500000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.png",
+            "eventDetailDescription": "Discover employee challenges, data insights, and solutions for supporting social needs in this informative session.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-industries:human-services-and-non-profit",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "91416246-03d5-4fa8-a2b3-e335e337a07e",
+            "lastModifiedDate": 1717101549730
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-practicing-empathy.html",
+            "title": "Practicing empathy",
+            "dateType": 1714054560000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-443550646-03042024-477x358.jpg",
+            "eventDetailDescription": "Enhance workplace communication and trust through empathy. Explore the impact and ways to increase empathy in organizations.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "3a179b54-9ebf-4fbe-8e8b-6545ae5c44e8",
+            "lastModifiedDate": 1714162266289
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-401k-headwinds-and-how-to-turn-them-in-your-favor.html",
+            "title": "401(k) Headwinds and how to turn them in your favor",
+            "dateType": 1714586280000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-03132024-477x358.jpg",
+            "eventDetailDescription": "Tune in to our webinar with leading industry experts to stay ahead of the game and offer a compelling plan for employees.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand",
+                "mma-industries:"
+            ],
+            "randomId": "6b05f39f-b087-447e-9ac1-29ff01f47051",
+            "lastModifiedDate": 1714743063989
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-managing-risk-controlling-costs.html",
+            "title": "Managing risk controlling costs: A deep dive into self-funded health plans for employers",
+            "dateType": 1713886620000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07262023-477x358.jpg",
+            "eventDetailDescription": "Join us for an informative webinar where our actuarial team and consultants will cover a deep dive into self-funding.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-regions:mid-atlantic",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "f7a7b3c1-8826-44b5-8792-1bba36d0c432",
+            "lastModifiedDate": 1714161934227
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-generation-z-and-the-evolving-workplace.html",
+            "title": "Generation Z and the evolving workplace",
+            "dateType": 1715268840000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-440299419-08172023-477x358.jpg",
+            "eventDetailDescription": "During this discussion we\u0027ll learn how this generation is shaping the workplace by addressing relevant topics.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-regions:mid-atlantic",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "54e0dbcc-0252-4dac-9bb8-d6a06271768f",
+            "lastModifiedDate": 1718983841994
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-inclusive-hiring-cultivating-a-culture-of-belonging.html",
+            "title": "Inclusive hiring: Cultivating a culture of belonging",
+            "dateType": 1715175780000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-603906166-04092024-477x358.jpg",
+            "eventDetailDescription": "Discover the power of diversity and inclusion in the workplace with our DEI panel discussion.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england"
+            ],
+            "randomId": "96a8507d-2824-4284-b8ac-943291f8e228",
+            "lastModifiedDate": 1715262577952
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-achieving-employee-well-being.html",
+            "title": "Achieving employee well-being: Unveiling the power of financial wellness",
+            "dateType": 1715263380000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-375393399-04092024-477x358.jpg",
+            "eventDetailDescription": "Achieve employee well-being through financial wellness. Prioritize education, guidance, and benefits to reduce stress, boost productivity, and attract top talent.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-solutions:financial-well-being",
+                "mma-subcontent-types:webinar",
+                "mma-regions:new-england",
+                "mma-services:retirement-services",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "ff06c3c6-8e9d-416d-8a55-02f2107788e5",
+            "lastModifiedDate": 1717609692223
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-prescribing-better-mental-health.html",
+            "title": "Prescribing better mental health",
+            "dateType": 1716480240000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-04122024-477x358.png",
+            "eventDetailDescription": "Join us in commemorating Mental Health Awareness Month as we facilitate a conversation about mental health in the health care industry.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-regions:mid-atlantic",
+                "mma-industries:health-care",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:employee-health-benefits",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "254bc21c-20df-4752-b313-a47b527af867",
+            "lastModifiedDate": 1718984076128
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-thriving-and-surviving-in-2024s-dynamic-business-landscape.html",
+            "title": "Thriving and surviving in 2024\u0027s dynamic business landscape",
+            "dateType": 1717695660000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-11212023-477x358.jpg",
+            "eventDetailDescription": "Take on the business challenges of 2024 through a new strategic approach with the help of our latest webinar.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "294a483a-1756-4ec3-b51b-9666932f3b3d",
+            "lastModifiedDate": 1718212236262
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-striving-for-stability-in-the-face-of-unpredictability.html",
+            "title": "The Future of Business Insurance: striving for stability in the face of unpredictability",
+            "dateType": 1719425100000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-06102024-477x358.jpg",
+            "eventDetailDescription": "Discover the future of business insurance and gain insights into shifting trends and learn how to mitigate risks and seize opportunities.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-national-campaign-types:bi-trends"
+            ],
+            "randomId": "65d7e9ed-fa19-4d68-bc33-42dbcc8cfc25",
+            "lastModifiedDate": 1719580523222
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-unlocking-wealth-the-artificial-intelligence-investing-paradigm.html",
+            "title": "Unlocking wealth: the artificial intelligence investing paradigm",
+            "dateType": 1719329520000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-336028070-06102024-477x358.png",
+            "eventDetailDescription": "Explore how AI algorithms revolutionize investment strategies in today\u0027s dynamic financial landscape.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services",
+                "mma-national-campaign-types:financial-trends",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "6670a720-1819-4081-a879-0228b28844fa",
+            "lastModifiedDate": 1719501691678
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-health-care-economics-for-this-year-and-the-next.html",
+            "title": "Health care economics for this year and the next",
+            "dateType": 1721139300000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-aug-ccoe-249613794-07282023-477x358.png",
+            "eventDetailDescription": "Catch up on the latest health care economics trends and learn what\u0027s in store for 2025 in our latest webinar.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-national-campaign-types:trends",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "f78bf964-4d6f-47f1-9516-4e64a65e2829",
+            "lastModifiedDate": 1724094485414
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-changing-weather-impact.html",
+            "title": "How the changing weather impacts your personal insurance",
+            "dateType": 1681335900000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/landing-page/pcs-landing-pages/2024-Weather-Webinar-465x465.png",
+            "eventDetailDescription": "Explore the future of yachting. Join our webinar for trends and innovations in the yachting industry.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:on-demand",
+                "mma-services:private-client-services",
+                "mma-regions:pcs-national",
+                "mma-solutions:specialty",
+                "mma-solutions:individual"
+            ],
+            "randomId": "c26ca65b-a95f-49ce-bee9-b144cc9ca853",
+            "lastModifiedDate": 1717772444784
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-nurturing-a-supportive-culture-in-challenging-times.html",
+            "title": "Resilient together: Nurturing a supportive culture in challenging times",
+            "dateType": 1726589580000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-06052024-477x358.jpg",
+            "eventDetailDescription": "Attend this session to learn practical strategies that foster resilience and reduce the stigma of mental health in the workplace.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits",
+                "mma-industries:"
+            ],
+            "randomId": "77f2ea2f-c94e-4be2-acf6-d438824c2a17",
+            "lastModifiedDate": 1717604161102
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-active-assailant-business-resiliency.html",
+            "title": "Business resiliency in uncertain times",
+            "dateType": 1724359980000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-440299419-08172023-477x358.jpg",
+            "eventDetailDescription": "Join us for an upcoming webinar where we\u0027ll dive into various topics related to active and workplace violence and what you need to be best positioned for continued protection.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "1fe73b0f-0c04-4857-9f72-8358d5984912",
+            "lastModifiedDate": 1724419193988
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-cybersecurity-education-with-knowbe4.html",
+            "title": "Cybersecurity education with KnowBe4",
+            "dateType": 1729090320000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-08292023-477x358.jpg",
+            "eventDetailDescription": "Join host Mario Paez and representatives from KnowBe4 as we discuss various topics related to cybersecurity education.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-solutions:cyber",
+                "mma-subcontent-types:upcoming",
+                "mma-regions:national"
+            ],
+            "randomId": "86c22a54-6dcf-4a5b-a500-ac49164b5581",
+            "lastModifiedDate": 1724789060259
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "On Demand",
+            "eventLableClass": "on-demand",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-zero-emissions.html",
+            "title": "Driving toward zero in the transportation industry",
+            "dateType": 1724944920000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-12102023-477x358.jpg",
+            "eventDetailDescription": "Join us as we examine the urgent and emerging trend of zero emissions in the transportation industry.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-industries:transportation-and-trucking",
+                "mma-regions:national",
+                "mma-subcontent-types:on-demand"
+            ],
+            "randomId": "4d7a412c-70c7-4a23-a6d2-bc75b2867544",
+            "lastModifiedDate": 1725023538374
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-insuring-your-success-trade-credit-and-your-cash-flow.html",
+            "title": "Insuring your success: Trade credit your cash flow",
+            "dateType": 1726170720000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07222024-477x358.jpg",
+            "eventDetailDescription": "Join our webinar to gain a comprehensive understanding of how Trade Credit Insurance can benefit your business.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-industries:financial-institutions"
+            ],
+            "randomId": "6fef7a25-f273-47a3-bf06-d77e1dcd3efb",
+            "lastModifiedDate": 1721678015576
+        },
+        {
+            "eventTitle": "Seminar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/seminar-understanding-mn-pfml.html",
+            "title": "Understanding MN PFML: Your guide to Paid Family and Medical Leave in Minnesota",
+            "dateType": 1726774320000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-07282023-477x358.png",
+            "eventDetailDescription": "Join us for an informative session on the Minnesota Paid Family and Medical Leave (MN PFML) program.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-subcontent-types:seminar",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits"
+            ],
+            "randomId": "398636d2-235f-4667-beba-e3a8d1a1e179",
+            "lastModifiedDate": 1725542153259
+        },
+        {
+            "eventTitle": "Seminar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/seminar-storytelling-as-a-talent-attraction-and-retention-tool.html",
+            "title": "Storytelling as a talent attraction retention tool",
+            "dateType": 1727895480000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-05182023-477x358.jpg",
+            "eventDetailDescription": "Join this session to gain deeper understanding of the power of storytelling as a tool help organizations engage employees.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-subcontent-types:seminar",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits"
+            ],
+            "randomId": "af78b58b-8fec-4459-8ed2-7487de8e7468",
+            "lastModifiedDate": 1722888393938
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-2024-absence-disability-and-leave-trends.html",
+            "title": "2024 Absence, Disability, and Leave Trends",
+            "dateType": 1727372460000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-197141952-08302022-477x358.jpg",
+            "eventDetailDescription": "Join us to dive into the findings of our 2024 Absence, Disability, and Leave Benchmarking Report.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "3017edb1-b54e-48bb-a61f-9544502a6673",
+            "lastModifiedDate": 1723476400367
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-creating-competitive-pay-and-total-rewards-strategies.html",
+            "title": "Creating competitive pay and total rewards strategies to stand out in the market",
+            "dateType": 1726769340000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-08082023-477x358.jpg",
+            "eventDetailDescription": "Join us for an insightful webinar on the latest trends and best practices in compensation and rewards strategy.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits",
+                "mma-regions:national",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "03cbecc2-4984-4beb-ad9d-b36a4fddc64b",
+            "lastModifiedDate": 1723467103335
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-employment-law-landscape-2025.html",
+            "title": "Employment law landscape 2025: What all employers need to know",
+            "dateType": 1736874000000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-10302023-477x358.jpg",
+            "eventDetailDescription": "Join us to discuss 2024 updates on federal, state, and local employment laws impacting employers.",
+            "tagIds": [
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar",
+                "mma-subcontent-types:upcoming",
+                "mma-services:employee-health-benefits",
+                "mma-industries:aviation"
+            ],
+            "randomId": "246750b4-1f6f-4441-a74a-acf0ae30b882",
+            "lastModifiedDate": 1724083319801
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-what-the-presidential-election-might-mean-for-investors.html",
+            "title": "Does it really matter? A look at what the presidential election might mean for investors",
+            "dateType": 1727207100000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-333408204-08022022-477x358.jpg",
+            "eventDetailDescription": "Join us to discuss what the presidential election might mean for investors.",
+            "tagIds": [
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-regions:national",
+                "mma-subcontent-types:webinar",
+                "mma-services:retirement-services"
+            ],
+            "randomId": "dedb79a0-6c74-4c82-9f06-f32adb0180fc",
+            "lastModifiedDate": 1724259995295
+        },
+        {
+            "eventTitle": "Webinar",
+            "eventLabel": "Upcoming",
+            "eventLableClass": "upcoming",
+            "eventLink": "/content/mma/americas/us/en_us/events/details/webinar-cyber-risk-in-manufacturing-insurance-claims-and-incident-response.html",
+            "title": "Cyber-risk in manufacturing: Insurance claims and incident response",
+            "dateType": 1728575340000,
+            "imgPath": "/content/dam/marsh-mclennan-agency-us/images/events/thumbnail/event-thumbnail-05072024-477x358.jpg",
+            "eventDetailDescription": "Join us to discuss various cyber-risk topics and our end-to-end cybersecurity solutions.",
+            "tagIds": [
+                "mma-industries:mma-industries",
+                "mma-industries:manufacturing",
+                "mma-regions:upper-midwest",
+                "mma-year:2024",
+                "mma-content-types:events",
+                "mma-subcontent-types:upcoming",
+                "mma-services:business-insurance",
+                "mma-subcontent-types:webinar"
+            ],
+            "randomId": "9accf6f5-ff00-48a8-839e-92b1b3faa3de",
+            "lastModifiedDate": 1725551425151
+        }
+    ],
+    "tagFilters": [
+        {
+            "filterId": "mma-year",
+            "filterTitle": "Year",
+            "filterOptions": [
+                {
+                    "id": "2020",
+                    "title": "2020"
+                },
+                {
+                    "id": "2021",
+                    "title": "2021"
+                },
+                {
+                    "id": "2022",
+                    "title": "2022"
+                },
+                {
+                    "id": "2023",
+                    "title": "2023"
+                },
+                {
+                    "id": "2024",
+                    "title": "2024"
+                }
+            ]
+        },
+        {
+            "filterId": "mma-services",
+            "filterTitle": "Services",
+            "filterOptions": [
+                {
+                    "id": "business-insurance",
+                    "title": "Business Insurance"
+                },
+                {
+                    "id": "employee-health-benefits",
+                    "title": "Employee Health Benefits"
+                },
+                {
+                    "id": "private-client-services",
+                    "title": "Private Client Services"
+                },
+                {
+                    "id": "retirement-services",
+                    "title": "Retirement Services"
+                }
+            ]
+        },
+        {
+            "filterId": "mma-industries",
+            "filterTitle": "Industries",
+            "filterOptions": [
+                {
+                    "id": "agribusiness",
+                    "title": "Agribusiness"
+                },
+                {
+                    "id": "aviation",
+                    "title": "Aviation"
+                },
+                {
+                    "id": "education",
+                    "title": "Education"
+                },
+                {
+                    "id": "financial-institutions",
+                    "title": "Financial Institutions"
+                },
+                {
+                    "id": "health-care",
+                    "title": "Health Care"
+                },
+                {
+                    "id": "human-services-and-non-profit",
+                    "title": "Human Services and Non-Profit"
+                },
+                {
+                    "id": "mma-industries",
+                    "title": "MMA Industries"
+                },
+                {
+                    "id": "manufacturing",
+                    "title": "Manufacturing"
+                },
+                {
+                    "id": "retail-wholesale",
+                    "title": "Retail Wholesale"
+                },
+                {
+                    "id": "senior-living",
+                    "title": "Senior Living"
+                },
+                {
+                    "id": "staffing",
+                    "title": "Staffing"
+                },
+                {
+                    "id": "transportation-and-trucking",
+                    "title": "Transportation and Trucking"
+                }
+            ]
+        }
+    ],
+    "eventsPerPage": "9",
+    "defaultSortOrder": "most-relevant",
+    "sortedTabDetails": {
+        "myArrayList": [
+            {
+                "map": {
+                    "id": "all",
+                    "title": "All"
+                }
+            },
+            {
+                "map": {
+                    "id": "upcoming",
+                    "title": "Upcoming"
+                }
+            },
+            {
+                "map": {
+                    "id": "on-demand",
+                    "title": "On Demand"
+                }
+            }
+        ]
+    }
+}
