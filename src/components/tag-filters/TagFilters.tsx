@@ -23,22 +23,22 @@ export const TagFiltersSection = (props: TagFiltersSelectionProps) => {
                 <div key={`${tag.filterId}${index}`} className="tag-section">
                     <h3>{tag.filterTitle}</h3>
                     <div className="tag-filters_tags">
-                        {tag.filterOptions.map((opt, index) =>
-                            <div className="tag-filters_tag" key={`${opt.id}${index}`}>
-                                <label htmlFor={opt.id}>
-                                    <input
-                                        type="checkbox"
-                                        value={opt.id}
-                                        name={tag.filterId}
-                                        id={opt.id}
-                                        onChange={_ => handleCheck(`${tag.filterId}:${opt.id}`)}
-                                        defaultChecked = {false}
-                                        className="tag-optinon"
-                                        >
-                                    </input>
-                                {opt.title}</label>
-                            </div>
-                        )}
+                    {tag.filterOptions.map((opt, index) =>
+                        <div className="tag-filters_tag" key={`${opt.id}${index}`}>
+                            <label htmlFor={opt.id}>
+                                <input
+                                    type="checkbox"
+                                    value={opt.id}
+                                    name={tag.filterId}
+                                    id={opt.id}
+                                    onChange={_ => handleCheck(`${tag.filterId}:${opt.id}`)}
+                                    defaultChecked = {false}
+                                    className="tag-optinon"
+                                    >
+                                </input>
+                            {opt.title}</label>
+                        </div>
+                    )}
                     </div>
                 </div>
             )}
