@@ -5,7 +5,7 @@ import {Dispatch, SetStateAction} from 'react'
 interface RadioGroupProps {
   options: string[],
   value: string,
-  setValue: Dispatch<SetStateAction<string>>
+  onChange: (v: string) => void,
 }
 
 export default function RadioGroup(props: RadioGroupProps) {
@@ -17,11 +17,7 @@ export default function RadioGroup(props: RadioGroupProps) {
             value={option}
             checked={option === props.value}
             label={option}
-            onChange={
-              () => {
-                props.setValue(option)
-              }
-            }
+            onChange={() => {props.onChange(option)}}
           />
         ))}
       </form>

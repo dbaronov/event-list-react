@@ -1,8 +1,29 @@
 import { Dispatch, SetStateAction } from "react"
 import { TagFilter } from "../../schema"
 
+
+// Further abstration needed?
+// const CheckBoxGroup = (props: {options: string[], selected: string[], onChange: (newSelected: string[]) => void}) => {
+
+//     const handleCheck = (option: string) => {
+
+//     }
+//     return (
+//         <div className="checkbox-group">
+//             {props.options.map(option => {
+//                 return (
+//                     <>
+//                     <label></label>
+//                     <input type="checkbox" checked={props.selected.includes(option)} onChange={() => handleCheck(option)} />
+//                     </>
+//                 )
+//             })}
+//         </div>
+//     )
+// }
+
+
 interface TagFiltersSelectionProps {
-    checked: boolean,
     tags: TagFilter[],
     selected: string[],
     setSelected: Dispatch<SetStateAction<string[]>>
