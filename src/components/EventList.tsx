@@ -1,5 +1,5 @@
 import { range } from 'lodash'
-import React, { useEffect, useState, useReducer } from 'react'
+import React, { useEffect, useState, useReducer, useTransition } from 'react'
 import { TagFiltersSection } from '../components/tag-filters/TagFilters'
 import Listing from '../components/listing/Listing'
 import RadioGroup from '../components/radio-group/RadioGroup'
@@ -39,6 +39,7 @@ function reducer(state: EventListState, action: Action): EventListState {
 
 export const EventList = () => {
     const [state, dispatch] = useReducer(reducer, new EventListState())
+    const [isPending, startTransition] = useTransition()
 
     const [filtersVisible, setFiltersVisible] = useState(false)
     const [dataFetched, setDataFetched] = useState<boolean>(false)
@@ -60,10 +61,11 @@ export const EventList = () => {
     const currentPage = skip / limit + 1
 
     useEffect(() => {
-        setTimeout(() => {
-            dispatch({ type: 'loadEvents', payload: data.eventCardList })
-            setDataFetched(true)
-        }, 2000)
+        startTransition(() => {
+            setTimeout(() => {
+                dispatch({ type: 'loadEvents', payload: data.eventCardList })
+            }, 2000)
+        })
     }, [])
 
     const options = ["All", "Webinar", "Seminar"]
@@ -92,10 +94,9 @@ export const EventList = () => {
 
             <div className="events_tag-filter">
                 <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={!filtersVisible ? `open filters` : `close filters`}/> <span className="events_tag-counter">{ state.selectedTags.length ? state.selectedTags.length : `...`  }</span>
-                {filtersVisible && <TagFiltersSection tags={data.tagFilters} selected={state.selectedTags} onChange={selectedTags => dispatch({type: "updateSelectedTags", payload: selectedTags})} />}
             </div>
 
-            {dataFetched ?
+            {isPending ?
                 <Listing eventsData={{ eventCardList: filteredEvents.slice(skip, skip + limit) }} />
                 :
                 "Loading data..."
