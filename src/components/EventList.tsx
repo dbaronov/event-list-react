@@ -19,6 +19,7 @@ type Action =
     | { type: 'loadEvents', payload: Event[] }
     | { type: 'updateSearchInput', payload: string }
     | { type: 'updateRadioGoupValue', payload: string }
+    | { type: 'updateSelectedTags', payload: string[] }
 
 
 function reducer(state: EventListState, action: Action): EventListState {
@@ -29,6 +30,8 @@ function reducer(state: EventListState, action: Action): EventListState {
             return { ...state, searchInput: action.payload }
         case 'updateRadioGoupValue':
             return { ...state, typeSwitch: action.payload }
+        case 'updateSelectedTags':
+            return { ...state, selectedTags: action.payload }
         default:
             return state
     }
@@ -41,13 +44,12 @@ export const EventList = () => {
     const [dataFetched, setDataFetched] = useState<boolean>(false)
     const [skip, setSkip] = useState<number>(0)
     const [limit, setLimit] = useState<number>(10)
-    const [selectedTags, setSelectedTags] = useState<string[]>([])
 
 
     const filteredEvents = eventsFilter(state.remoteData, {
         searchTerm: state.searchInput,
         typeSwitch: state.typeSwitch,
-        tags: selectedTags
+        tags: state.selectedTags
     })
 
     if (skip > filteredEvents.length) {
@@ -85,13 +87,12 @@ export const EventList = () => {
             </form>
 
             <div className="events_event-type">
-                {/* <RadioGroup options={options} value={typeSwitch} setValue={setTypeSwitch} /> */}
                 <RadioGroup options={options} value={state.typeSwitch} onChange={newValue => dispatch({type: "updateRadioGoupValue", payload: newValue})} />
             </div>
 
             <div className="events_tag-filter">
-                <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={!filtersVisible ? "more filters" : "close filters"} />
-                {filtersVisible && <TagFiltersSection tags={data.tagFilters} selected={selectedTags} setSelected={setSelectedTags} />}
+                <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={!filtersVisible ? `open filters` : `close filters`}/> <span className="events_tag-counter">{ state.selectedTags.length ? state.selectedTags.length : `...`  }</span>
+                {filtersVisible && <TagFiltersSection tags={data.tagFilters} selected={state.selectedTags} onChange={selectedTags => dispatch({type: "updateSelectedTags", payload: selectedTags})} />}
             </div>
 
             {dataFetched ?

@@ -1,4 +1,3 @@
-import { Dispatch, SetStateAction } from "react"
 import { TagFilter } from "../../schema"
 
 
@@ -26,15 +25,15 @@ import { TagFilter } from "../../schema"
 interface TagFiltersSelectionProps {
     tags: TagFilter[],
     selected: string[],
-    setSelected: Dispatch<SetStateAction<string[]>>
+    onChange: (s: string[]) => void
 }
 
 export const TagFiltersSection = (props: TagFiltersSelectionProps) => {
     const handleCheck = (tagId: string) => {
         if (props.selected.includes(tagId)) {
-            props.setSelected(props.selected.filter(tag => tag !== tagId))
+            props.onChange(props.selected.filter(tag => tag !== tagId))
         } else {
-            props.setSelected([...props.selected, tagId])
+            props.onChange([...props.selected, tagId])
         }
     }
     
