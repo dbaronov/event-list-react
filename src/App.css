@@ -135,7 +135,24 @@
     padding: .125rem 1rem;
     border-radius: 38px;
     margin-bottom: 10px;
+    min-width: 114px;
 }
+
+.events_tag-counter {
+    position: relative;
+    z-index: -1;
+    border: 2px solid #0096d6;
+    border-radius: 38px;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: -30px;
+    padding: .125rem 0.5rem .2rem 1.75rem;
+    color: #0096d6;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 14px;
+    vertical-align: top;
+} 
 
 .tag-filters {
     display: flex;
