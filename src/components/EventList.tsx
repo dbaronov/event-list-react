@@ -1,5 +1,5 @@
 import { range } from 'lodash'
-import React, { useEffect, useState, useReducer, useTransition } from 'react'
+import React, { useEffect, useState, useReducer, useTransition, useCallback, useMemo } from 'react'
 import { TagFiltersSection } from '../components/tag-filters/TagFilters'
 import Listing from '../components/listing/Listing'
 import RadioGroup from '../components/radio-group/RadioGroup'
@@ -25,13 +25,17 @@ type Action =
 function reducer(state: EventListState, action: Action): EventListState {
     switch (action.type) {
         case 'loadEvents':
-            return { ...state, remoteData: action.payload }
+            // return { ...state, remoteData: action.payload }
+            return Object.assign({}, state, { remoteData: action.payload })
         case 'updateSearchInput':
-            return { ...state, searchInput: action.payload }
+            // return { ...state, searchInput: action.payload }
+            return Object.assign({}, state, { searchInput: action.payload })
         case 'updateRadioGoupValue':
-            return { ...state, typeSwitch: action.payload }
+            // return { ...state, typeSwitch: action.payload }
+            return Object.assign({}, state, { typeSwitch: action.payload })
         case 'updateSelectedTags':
-            return { ...state, selectedTags: action.payload }
+            // return { ...state, selectedTags: action.payload }
+            return Object.assign({}, state, { selectedTags: action.payload })
         default:
             return state
     }
@@ -68,8 +72,10 @@ export const EventList = () => {
         })
     }, [])
 
-    const options = ["All", "Webinar", "Seminar"]
+    const options = useMemo(() => ["All", "Webinar", "Seminar"], [])
 
+    const onChangeTags = useCallback((selectedTags: string[]) => dispatch({type: "updateSelectedTags", payload: selectedTags}), [])
+    const onChangeRadio = useCallback((newValue: string) => dispatch({type: "updateRadioGoupValue", payload: newValue}), [])
     return (
         <div className="app events">
             <form>
@@ -89,20 +95,21 @@ export const EventList = () => {
             </form>
 
             <div className="events_event-type">
-                <RadioGroup options={options} value={state.typeSwitch} onChange={newValue => dispatch({type: "updateRadioGoupValue", payload: newValue})} />
+                <RadioGroup options={options} value={state.typeSwitch} onChange={ onChangeRadio } />
             </div>
 
             <div className="events_tag-filter">
-                <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={!filtersVisible ? `open filters` : `close filters`}/> <span className="events_tag-counter">{ state.selectedTags.length ? state.selectedTags.length : `...`  }</span>
+                <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={ filtersVisible ? `open filters` : `close filters` }/> <span className="events_tag-counter">{ state.selectedTags.length ? state.selectedTags.length : `...`  }</span>
+                {filtersVisible && <TagFiltersSection tags={data.tagFilters} selected={state.selectedTags} onChange={onChangeTags} />}
             </div>
 
-            {isPending ?
+            {!isPending ?
                 <Listing eventsData={{ eventCardList: filteredEvents.slice(skip, skip + limit) }} />
                 :
                 "Loading data..."
             }
 
-            {filteredEvents.length > limit &&
+            {/* {filteredEvents.length > limit &&
                 <div className="pagination-navigation">
                     <button disabled={skip <= 0} onClick={() => setSkip(skip - limit)}>Prev page</button>
 
@@ -112,8 +119,49 @@ export const EventList = () => {
 
                     <button disabled={(skip + limit) >= filteredEvents.length} onClick={() => setSkip(skip + limit)}>Next page</button>
                 </div>
-            }
+            } */}
 
+            {filteredEvents.length > limit && (
+            <div className="pagination-navigation">
+                <button disabled={skip <= 0} onClick={() => setSkip(skip - limit)}>
+                    Prev page
+                </button>
+
+                {/* Always show the first page */}
+                {currentPage > 1 && (
+                <>
+                    <button onClick={() => setSkip(0)}>1</button>
+                    <button disabled>...</button>
+                </>
+                )}
+
+                {/* Show a range of pages around the current page */}
+                {range(Math.max(currentPage - 1, 0), Math.min(currentPage + 1, totalPages)).map(i => (
+                <button
+                    key={i}
+                    disabled={i + 1 === currentPage}
+                    onClick={() => setSkip(i * limit)}
+                >
+                    {i + 1}
+                </button>
+                ))}
+
+                {/* Always show the last page */}
+                {currentPage < totalPages - 2 && (
+                <>
+                    <button disabled>...</button>
+                    <button onClick={() => setSkip((totalPages - 1) * limit)}>{totalPages}</button>
+                </>
+                )}
+
+                <button
+                    disabled={(skip + limit) >= filteredEvents.length}
+                    onClick={() => setSkip(skip + limit)}
+                    >
+                    Next page
+                </button>
+            </div>
+            )}
         </div>
     )
 }

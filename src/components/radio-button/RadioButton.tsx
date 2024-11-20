@@ -1,4 +1,4 @@
-import { ChangeEventHandler, useState } from "react";
+import { ChangeEventHandler } from "react";
 
 interface RadsioButtonProps {
   value: string,
@@ -7,7 +7,7 @@ interface RadsioButtonProps {
   label: string
 }
 
-export default function RadioButton(props: RadsioButtonProps ) {
+const RadioButton = (props: RadsioButtonProps ) => {
 
     return (
       <>
@@ -28,3 +28,5 @@ export default function RadioButton(props: RadsioButtonProps ) {
       </>
     )
   }
+
+  export default RadioButton

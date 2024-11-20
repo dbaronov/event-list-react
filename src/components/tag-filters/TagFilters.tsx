@@ -29,13 +29,22 @@ interface TagFiltersSelectionProps {
 }
 
 export const TagFiltersSection = (props: TagFiltersSelectionProps) => {
+    // const handleCheck = (tagId: string) => {
+    //     if (props.selected.includes(tagId)) {
+    //         props.onChange(props.selected.filter(tag => tag !== tagId))
+    //     } else {
+    //         props.onChange([...props.selected, tagId])
+    //     }
+    // }
+
     const handleCheck = (tagId: string) => {
-        if (props.selected.includes(tagId)) {
-            props.onChange(props.selected.filter(tag => tag !== tagId))
-        } else {
-            props.onChange([...props.selected, tagId])
-        }
-    }
+        const selectedSet = new Set(props.selected)
+    
+        selectedSet.has(tagId) ? selectedSet.delete(tagId) : selectedSet.add(tagId)
+    
+        // Update selected items after modification
+        props.onChange(Array.from(selectedSet))
+    } 
     
     return (
         <div className="tag-filters">
