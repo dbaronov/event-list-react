@@ -1,5 +1,5 @@
-import { TagFilter } from "../../schema"
 import { memo } from "react"
+import { TagFilter } from "../../schema"
 
 // Further abstration needed?
 // const CheckBoxGroup = (props: {options: string[], selected: string[], onChange: (newSelected: string[]) => void}) => {
