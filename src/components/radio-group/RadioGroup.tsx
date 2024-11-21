@@ -5,7 +5,7 @@ import RadioButton from '../radio-button/RadioButton'
 interface RadioGroupProps {
   options: string[],
   value: string,
-  onChange: (v: string) => void
+  onChange: (value: string) => void
 }
 
 const RadioGroup = memo((props: RadioGroupProps) => {
@@ -25,20 +25,3 @@ const RadioGroup = memo((props: RadioGroupProps) => {
 })
 
 export default RadioGroup
-
-
-// export default function RadioGroup(props: RadioGroupProps) {
-//     return (
-//       <form>
-//         {props.options.map((option: string) => (
-//           <RadioButton
-//             key={option}
-//             value={option}
-//             checked={option === props.value}
-//             label={option}
-//             onChange={() => {props.onChange(option)}}
-//           />
-//         ))}
-//       </form>
-//     )
-//   }

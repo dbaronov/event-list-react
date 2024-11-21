@@ -1,5 +1,5 @@
 import { TagFilter } from "../../schema"
-
+import { memo } from "react"
 
 // Further abstration needed?
 // const CheckBoxGroup = (props: {options: string[], selected: string[], onChange: (newSelected: string[]) => void}) => {
@@ -25,26 +25,17 @@ import { TagFilter } from "../../schema"
 interface TagFiltersSelectionProps {
     tags: TagFilter[],
     selected: string[],
-    onChange: (s: string[]) => void
+    onChange: (tagValue: string[]) => void
 }
 
-export const TagFiltersSection = (props: TagFiltersSelectionProps) => {
-    // const handleCheck = (tagId: string) => {
-    //     if (props.selected.includes(tagId)) {
-    //         props.onChange(props.selected.filter(tag => tag !== tagId))
-    //     } else {
-    //         props.onChange([...props.selected, tagId])
-    //     }
-    // }
+export const TagFiltersSection = memo((props: TagFiltersSelectionProps) => {
 
     const handleCheck = (tagId: string) => {
         const selectedSet = new Set(props.selected)
-    
+
         selectedSet.has(tagId) ? selectedSet.delete(tagId) : selectedSet.add(tagId)
-    
-        // Update selected items after modification
         props.onChange(Array.from(selectedSet))
-    } 
+    }
     
     return (
         <div className="tag-filters">
@@ -73,4 +64,4 @@ export const TagFiltersSection = (props: TagFiltersSelectionProps) => {
             )}
         </div>
     )
-}
+})
