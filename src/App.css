@@ -202,7 +202,19 @@
   border: 1px solid #acacac;
   overflow: hidden;
   transition: .3s ease;
-  width: calc(50% - 61px);
+  width: calc(100% - 30px);
+}
+
+@media only screen and (min-width: 768px) {
+  .c-event-list__listing ul li {
+    width: calc(50% - 61px);
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .c-event-list__listing ul li {
+    width: calc(33% - 61px);
+  }
 }
 
 .c-event-list__listing ul li:hover {
