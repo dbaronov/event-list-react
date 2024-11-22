@@ -60,12 +60,11 @@
   border-radius: 38px;
 }
 
-
 .events_text-input input[type="button"]:focus {
   outline: none;
 }
 
-.events_event-type input[type="button"]:checked+label {
+.events_event-type input[type="radio"]:checked+label {
   background-color: #009de0;
   color: #fff;
 }
