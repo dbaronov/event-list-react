@@ -21,7 +21,7 @@ export const TextSearch = memo((props: TextInputProps) => {
           />
         </svg>
         <input type="text" placeholder="Search events" onChange={(event) => props.onChange(event.target.value)} />
-        <button name="counter" id="counter" disabled tabIndex={0}>{props.events.length || ". . ."} </button>
+        <input type="button" name="counter" data-testid="counter" disabled tabIndex={0} value={props.events.length || ". . ."} />
         <input type="reset" name="reset" id="reset" tabIndex={0} value="✕" aria-label="Clear text input" />
       </div>
     </form>
