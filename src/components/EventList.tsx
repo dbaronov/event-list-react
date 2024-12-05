@@ -84,7 +84,9 @@ export const EventList = () => {
   const onPaginationChange = useCallback((newPagination: NavigationState) => dispatch({type: 'updatePagination', payload: newPagination}), [])
 
   return (
+    
     <div className="app events">
+
       <TextSearch value={state.searchInput} onChange={onInputChange} events={filteredEvents} />
 
       <div className="events_event-type">
