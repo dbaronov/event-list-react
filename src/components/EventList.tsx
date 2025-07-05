@@ -94,7 +94,7 @@ export const EventList = () => {
       </div>
 
       <div className="events_tag-filter">
-        <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={filtersVisible ? `close filters` : `open filters`} /> <span className="events_tag-counter">{state.selectedTags.length ? state.selectedTags.length : `...`}</span>
+        <input type="button" tabIndex={0} onClick={() => setFiltersVisible(filtersVisible ? false : true)} value={filtersVisible ? `open filters` : `close filters`} /> <span className="events_tag-counter">{state.selectedTags.length ? state.selectedTags.length : `...`}</span>
         {filtersVisible && <TagFiltersSection tags={data.tagFilters} selected={state.selectedTags} onChange={onTagsChange} />}
       </div>
 
