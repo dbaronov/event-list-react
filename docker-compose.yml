@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  event-list-react:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    container_name: event-list-react-app
+    
+    # Optional: Add environment variables if needed
+    # environment:
+    #   - NODE_ENV=production
+    
+    # Optional: Add health check
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:80"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

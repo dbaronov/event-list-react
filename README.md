@@ -44,3 +44,47 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Docker Deployment
+
+This project includes Docker support for containerized deployment.
+
+### Building the Docker Image
+
+```bash
+docker build -t event-list-react .
+```
+
+### Running the Container
+
+```bash
+docker run -p 8080:80 event-list-react
+```
+
+The application will be available at [http://localhost:8080](http://localhost:8080).
+
+### Docker Compose (Optional)
+
+You can also create a `docker-compose.yml` file for easier management:
+
+```yaml
+version: '3.8'
+services:
+  event-list-react:
+    build: .
+    ports:
+      - "80:80"
+    restart: unless-stopped
+```
+
+Then run:
+```bash
+docker-compose up -d
+```
+
+### Production Considerations
+
+- The Dockerfile uses a multi-stage build to optimize image size
+- Static assets are served with appropriate caching headers
+- The nginx configuration supports client-side routing for React Router
+- The container runs on port 80 internally, map it to your desired external port
