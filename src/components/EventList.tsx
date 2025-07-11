@@ -72,7 +72,7 @@ export const EventList = () => {
     startTransition(() => {
       setTimeout(() => {
         dispatch({ type: 'loadEvents', payload: data.eventCardList })
-      }, 2000)
+      }, 500)
     })
   }, [])
 
