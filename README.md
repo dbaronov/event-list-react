@@ -58,7 +58,7 @@ docker build -t event-list-react .
 ### Running the Container
 
 ```bash
-docker run -p 8080:80 event-list-react
+docker run -p 80:80 event-list-react
 ```
 
 The application will be available at [http://localhost:8080](http://localhost:8080).
