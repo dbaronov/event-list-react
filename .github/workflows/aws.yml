@@ -26,9 +26,10 @@ jobs:
       env:
         ECR_REGISTRY: ${{ secrets.ECR_REGISTRY }}
         ECR_REPOSITORY: ${{ secrets.ECR_REPOSITORY }}
-        IMAGE_TAG: ${{ github.ref_name }}-${{ github.sha.substr(0,7) }}
-
+    - name: Set image tag based on date
+      id: vars
       run: |
+        echo "IMAGE_TAG=$(date +'%Y%m%d-%H%M')" >> "$GITHUB_ENV"
         docker build -t $ECR_REPOSITORY:$IMAGE_TAG .
         docker tag $ECR_REPOSITORY:$IMAGE_TAG $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
         docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
