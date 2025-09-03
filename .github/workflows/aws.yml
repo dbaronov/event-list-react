@@ -53,13 +53,13 @@ jobs:
         uses: aws-actions/amazon-ecs-render-task-definition@v1
         with:
           task-definition: taskdef.json        # твой исходный task definition
-          container-name: myapp                # имя контейнера внутри task definition
+          container-name: eventList            # имя контейнера внутри task definition
           image: ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
 
       # 9. Деплоим новую ревизию в ECS
       - name: Deploy ECS task definition
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
-          service: my-service     # твой сервис ECS
-          cluster: my-cluster     # твой кластер ECS
+          service: EventListTaskDef-service-m2316v6h     # твой сервис ECS
+          cluster: event-list-cluster-1     # твой кластер ECS
           task-definition: ${{ steps.task-def.outputs.task-definition }}
