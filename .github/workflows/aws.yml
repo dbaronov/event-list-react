@@ -1,50 +1,65 @@
-name: Deploy to Amazon ECR
+name: Build and Push to ECR + Deploy ECS
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main   # Запускаем только при пуше в main
 
 jobs:
-  build-and-push:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+      # 1. Забираем код из репозитория
+      - name: Checkout source
+        uses: actions/checkout@v3
 
-    - name: Configure AWS credentials
-      uses: aws-actions/configure-aws-credentials@v4
-      with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: ${{ secrets.AWS_REGION }}
+      # 2. Настраиваем AWS креды
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
 
-    - name: Login to Amazon ECR
-      uses: aws-actions/amazon-ecr-login@v2
+      # 3. Логинимся в ECR
+      - name: Log in to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
 
-    - name: Set image tag based on date
-      id: vars
-      run: |
-        echo "IMAGE_TAG=$(date +'%Y%m%d-%H%M')" >> "$GITHUB_ENV"
+      # 4. Создаём тег образа = первые 8 символов SHA коммита
+      - name: Set image tag
+        run: echo "IMAGE_TAG=${GITHUB_SHA::8}" >> $GITHUB_ENV
 
-    - name: Build Docker image
-      run: |
-        docker build -t ${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }} .
+      # 5. Собираем Docker образ
+      - name: Build Docker image
+        run: |
+          docker build -t ${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }} .
 
-    - name: Tag Docker image
-      run: |
-        docker tag ${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }} ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
-        docker tag ${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }} ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:latest
+      # 6. Тегируем образ для ECR (только с SHA)
+      - name: Tag Docker image
+        run: |
+          docker tag ${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }} \
+            ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
 
-    - name: Push Docker image to ECR
-      run: |
-        docker push ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
-        docker push ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:latest
+      # 7. Отправляем образ в ECR
+      - name: Push Docker image to ECR
+        run: |
+          docker push ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
 
-    - name: Force ECS deployment
-      run: |
-        aws ecs update-service \
-          --cluster ${{ secrets.ECS_CLUSTER_NAME }} \
-          --service ${{ secrets.ECS_SERVICE_NAME }} \
-          --force-new-deployment \
-          --region ${{ secrets.AWS_REGION }}
+      # 8. Подставляем новый тег образа в task definition
+      - name: Render new ECS task definition
+        id: task-def
+        uses: aws-actions/amazon-ecs-render-task-definition@v1
+        with:
+          task-definition: taskdef.json        # твой исходный task definition
+          container-name: myapp                # имя контейнера внутри task definition
+          image: ${{ secrets.ECR_REGISTRY }}/${{ secrets.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
+
+      # 9. Деплоим новую ревизию в ECS
+      - name: Deploy ECS task definition
+        uses: aws-actions/amazon-ecs-deploy-task-definition@v1
+        with:
+          service: my-service     # твой сервис ECS
+          cluster: my-cluster     # твой кластер ECS
+          task-definition: ${{ steps.task-def.outputs.task-definition }}
